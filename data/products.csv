@@ -1,0 +1,501 @@
+product_id,product_name,category,manufacturing_date,shelf_life_days,expiry_date,unit_cost_inr,criticality,supplier_id
+P0001,Fasteners-Hardware-0001,Fasteners & Hardware,2022-10-22,2958,2030-11-27,400.31,Medium,SUP07
+P0002,Rotor-Transmission-0002,Rotor & Transmission,2022-10-06,1269,2026-03-28,96158.03,Medium,SUP08
+P0003,Composite-Materials-0003,Composite Materials,2022-01-23,395,2026-05-13,27082.87,Low,SUP06
+P0004,Avionics-Avionics-0004,Avionics,2021-09-29,1275,2027-01-14,52728.49,Medium,SUP12
+P0005,Cockpit-Instruments-0005,Cockpit Instruments,2021-02-19,2417,2027-10-03,31880.79,High,SUP16
+P0006,Landing-Gear-0006,Landing Gear,2021-08-15,3569,2031-05-24,133264.74,High,SUP19
+P0007,Fasteners-Hardware-0007,Fasteners & Hardware,2021-12-10,2662,2029-03-25,93.56,Low,SUP14
+P0008,Avionics-Avionics-0008,Avionics,2022-01-27,1023,2026-10-28,89374.97,High,SUP07
+P0009,Composite-Materials-0009,Composite Materials,2021-06-19,851,2026-05-17,4272.38,Medium,SUP02
+P0010,Electrical-Systems-0010,Electrical Systems,2021-09-12,1881,2026-11-06,7822.37,Low,SUP12
+P0011,Avionics-Avionics-0011,Avionics,2022-04-06,2389,2028-10-20,91127.04,High,SUP08
+P0012,Hydraulic-Systems-0012,Hydraulic Systems,2022-11-10,1144,2026-04-12,26377.25,Medium,SUP13
+P0013,Cockpit-Instruments-0013,Cockpit Instruments,2021-07-30,1747,2026-05-12,32294.43,Low,SUP12
+P0014,Composite-Materials-0014,Composite Materials,2021-05-19,801,2026-08-07,3204.32,Medium,SUP03
+P0015,Engine-Components-0015,Engine Components,2022-11-22,2889,2030-10-20,322681.99,Low,SUP09
+P0016,Composite-Materials-0016,Composite Materials,2021-08-17,416,2026-02-20,19629.67,Medium,SUP05
+P0017,Landing-Gear-0017,Landing Gear,2021-07-04,2294,2027-10-15,189650.4,Medium,SUP05
+P0018,Landing-Gear-0018,Landing Gear,2021-11-30,2810,2029-08-10,235411.96,Medium,SUP09
+P0019,Rotor-Transmission-0019,Rotor & Transmission,2021-06-06,1329,2026-05-13,49150.89,Low,SUP17
+P0020,Airframe-Structures-0020,Airframe Structures,2021-09-04,3391,2030-12-17,88858.58,High,SUP13
+P0021,Airframe-Structures-0021,Airframe Structures,2022-05-04,3197,2031-02-03,141999.5,High,SUP02
+P0022,Rotor-Transmission-0022,Rotor & Transmission,2021-03-27,1960,2026-08-08,330923.34,Medium,SUP12
+P0023,Airframe-Structures-0023,Airframe Structures,2021-08-14,3078,2030-01-17,134958.26,High,SUP07
+P0024,Engine-Components-0024,Engine Components,2021-04-09,2471,2028-01-14,172459.51,Low,SUP09
+P0025,Landing-Gear-0025,Landing Gear,2021-03-24,2719,2028-09-02,31877.08,Medium,SUP01
+P0026,Landing-Gear-0026,Landing Gear,2021-12-24,2239,2028-02-10,102741.33,High,SUP09
+P0027,Airframe-Structures-0027,Airframe Structures,2021-06-17,3943,2032-04-03,60908.14,High,SUP07
+P0028,Avionics-Avionics-0028,Avionics,2022-10-13,1222,2026-02-16,148208.71,High,SUP02
+P0029,Avionics-Avionics-0029,Avionics,2022-05-22,1049,2026-06-01,93986.66,Medium,SUP02
+P0030,Hydraulic-Systems-0030,Hydraulic Systems,2021-11-12,1787,2026-10-04,31919.9,Medium,SUP11
+P0031,Composite-Materials-0031,Composite Materials,2022-03-28,754,2026-09-02,11792.59,Medium,SUP02
+P0032,Electrical-Systems-0032,Electrical Systems,2022-08-11,2179,2028-07-29,13167.08,Low,SUP06
+P0033,Landing-Gear-0033,Landing Gear,2021-11-25,3019,2030-03-02,189541.09,Medium,SUP19
+P0034,Airframe-Structures-0034,Airframe Structures,2021-04-02,2348,2027-09-06,100324.19,Medium,SUP08
+P0035,Engine-Components-0035,Engine Components,2022-08-04,2602,2029-09-18,354060.55,Medium,SUP10
+P0036,Landing-Gear-0036,Landing Gear,2021-04-18,2114,2027-01-31,91708.51,Medium,SUP17
+P0037,Avionics-Avionics-0037,Avionics,2021-10-06,2448,2028-06-19,199325.67,Low,SUP09
+P0038,Cockpit-Instruments-0038,Cockpit Instruments,2022-08-24,2588,2029-09-24,36635.19,Low,SUP01
+P0039,Composite-Materials-0039,Composite Materials,2021-11-08,865,2026-12-27,34484.35,Low,SUP20
+P0040,Landing-Gear-0040,Landing Gear,2022-08-02,3492,2032-02-23,130516.35,High,SUP14
+P0041,Avionics-Avionics-0041,Avionics,2021-02-20,1672,2026-04-28,107410.48,High,SUP04
+P0042,Engine-Components-0042,Engine Components,2021-08-16,1768,2026-06-19,272252.17,Medium,SUP07
+P0043,Landing-Gear-0043,Landing Gear,2021-09-29,2822,2029-06-21,207555.48,Medium,SUP14
+P0044,Electrical-Systems-0044,Electrical Systems,2022-03-25,1784,2027-02-11,29409.0,Medium,SUP01
+P0045,Engine-Components-0045,Engine Components,2021-03-14,2583,2028-04-09,137859.34,Medium,SUP17
+P0046,Engine-Components-0046,Engine Components,2022-11-17,2204,2028-11-29,497547.73,Low,SUP03
+P0047,Cockpit-Instruments-0047,Cockpit Instruments,2022-03-06,1996,2027-08-23,86151.89,Low,SUP03
+P0048,Engine-Components-0048,Engine Components,2022-07-25,1958,2027-12-04,83905.82,Medium,SUP18
+P0049,Cockpit-Instruments-0049,Cockpit Instruments,2022-02-13,2766,2029-09-10,40364.7,Medium,SUP18
+P0050,Electrical-Systems-0050,Electrical Systems,2021-08-30,1504,2026-05-10,12042.11,Low,SUP17
+P0051,Composite-Materials-0051,Composite Materials,2022-07-10,740,2027-01-25,28789.58,Medium,SUP10
+P0052,Fasteners-Hardware-0052,Fasteners & Hardware,2021-11-20,3140,2030-06-26,215.69,Low,SUP07
+P0053,Cockpit-Instruments-0053,Cockpit Instruments,2021-08-08,1791,2026-07-04,59487.34,Medium,SUP14
+P0054,Landing-Gear-0054,Landing Gear,2021-01-05,2476,2027-10-17,121258.69,Medium,SUP19
+P0055,Cockpit-Instruments-0055,Cockpit Instruments,2022-08-05,2972,2030-09-24,20713.41,Medium,SUP17
+P0056,Airframe-Structures-0056,Airframe Structures,2021-10-15,2606,2028-12-03,15436.86,Medium,SUP08
+P0057,Hydraulic-Systems-0057,Hydraulic Systems,2022-09-21,1768,2027-07-25,19934.86,High,SUP13
+P0058,Airframe-Structures-0058,Airframe Structures,2021-03-17,3399,2030-07-07,67589.55,Low,SUP10
+P0059,Landing-Gear-0059,Landing Gear,2021-05-08,2287,2027-08-12,244700.27,Medium,SUP05
+P0060,Rotor-Transmission-0060,Rotor & Transmission,2021-12-05,2203,2027-12-17,386553.43,Medium,SUP01
+P0061,Rotor-Transmission-0061,Rotor & Transmission,2022-09-28,1730,2027-06-24,369476.94,Medium,SUP16
+P0062,Cockpit-Instruments-0062,Cockpit Instruments,2022-04-05,1919,2027-07-07,62136.18,Medium,SUP05
+P0063,Electrical-Systems-0063,Electrical Systems,2022-08-01,1257,2026-01-09,22441.1,Medium,SUP05
+P0064,Electrical-Systems-0064,Electrical Systems,2022-10-25,1339,2026-06-25,2403.02,High,SUP14
+P0065,Airframe-Structures-0065,Airframe Structures,2021-09-15,2034,2027-04-11,34546.24,Medium,SUP07
+P0066,Airframe-Structures-0066,Airframe Structures,2022-12-10,2867,2030-10-16,34248.26,High,SUP05
+P0067,Airframe-Structures-0067,Airframe Structures,2021-03-14,2749,2028-09-22,16342.56,Medium,SUP01
+P0068,Composite-Materials-0068,Composite Materials,2022-01-31,452,2026-07-01,27371.66,Medium,SUP17
+P0069,Airframe-Structures-0069,Airframe Structures,2021-12-18,2776,2029-07-25,90566.38,High,SUP19
+P0070,Hydraulic-Systems-0070,Hydraulic Systems,2022-07-18,1638,2027-01-11,39426.68,Low,SUP12
+P0071,Avionics-Avionics-0071,Avionics,2021-01-05,1927,2026-04-16,27013.36,High,SUP08
+P0072,Rotor-Transmission-0072,Rotor & Transmission,2022-09-09,1608,2027-02-03,285380.92,High,SUP04
+P0073,Rotor-Transmission-0073,Rotor & Transmission,2021-11-15,1954,2027-03-23,290825.38,High,SUP04
+P0074,Rotor-Transmission-0074,Rotor & Transmission,2021-02-12,1882,2026-04-09,192449.54,Medium,SUP04
+P0075,Avionics-Avionics-0075,Avionics,2021-03-10,1870,2026-04-23,65002.96,Low,SUP05
+P0076,Engine-Components-0076,Engine Components,2022-04-04,2609,2029-05-26,355930.15,Medium,SUP20
+P0077,Cockpit-Instruments-0077,Cockpit Instruments,2022-07-09,2843,2030-04-21,34244.07,High,SUP09
+P0078,Landing-Gear-0078,Landing Gear,2021-01-14,2374,2027-07-16,54647.4,Medium,SUP20
+P0079,Landing-Gear-0079,Landing Gear,2022-10-25,1949,2028-02-25,163116.93,High,SUP20
+P0080,Hydraulic-Systems-0080,Hydraulic Systems,2021-06-12,1612,2026-06-10,46380.6,High,SUP10
+P0081,Rotor-Transmission-0081,Rotor & Transmission,2022-08-22,1859,2027-09-24,60721.15,Medium,SUP11
+P0082,Avionics-Avionics-0082,Avionics,2021-08-28,2032,2027-03-22,194357.35,Low,SUP06
+P0083,Fasteners-Hardware-0083,Fasteners & Hardware,2021-12-05,3056,2030-04-18,218.78,Low,SUP02
+P0084,Hydraulic-Systems-0084,Hydraulic Systems,2021-03-25,1109,2026-06-29,33232.94,Medium,SUP01
+P0085,Electrical-Systems-0085,Electrical Systems,2022-05-30,2336,2028-10-21,24758.39,Medium,SUP04
+P0086,Electrical-Systems-0086,Electrical Systems,2022-07-04,1778,2027-05-17,21829.07,Medium,SUP10
+P0087,Rotor-Transmission-0087,Rotor & Transmission,2022-07-13,1721,2027-03-30,158890.91,High,SUP20
+P0088,Composite-Materials-0088,Composite Materials,2023-01-01,712,2026-12-05,7348.47,Medium,SUP17
+P0089,Cockpit-Instruments-0089,Cockpit Instruments,2022-08-21,1835,2027-08-30,79225.13,Low,SUP13
+P0090,Hydraulic-Systems-0090,Hydraulic Systems,2022-05-18,1732,2027-02-13,7387.04,High,SUP19
+P0091,Airframe-Structures-0091,Airframe Structures,2022-03-03,2332,2028-07-21,20560.84,Medium,SUP01
+P0092,Hydraulic-Systems-0092,Hydraulic Systems,2021-09-18,1245,2026-10-15,43330.88,High,SUP12
+P0093,Rotor-Transmission-0093,Rotor & Transmission,2021-11-20,2268,2028-02-05,382148.13,Medium,SUP08
+P0094,Rotor-Transmission-0094,Rotor & Transmission,2021-02-03,1756,2027-01-09,107723.62,High,SUP05
+P0095,Cockpit-Instruments-0095,Cockpit Instruments,2022-08-10,2179,2028-07-28,29315.89,High,SUP20
+P0096,Landing-Gear-0096,Landing Gear,2022-04-21,3509,2031-11-29,252085.06,Medium,SUP02
+P0097,Rotor-Transmission-0097,Rotor & Transmission,2022-12-28,2239,2029-02-13,375782.25,High,SUP01
+P0098,Electrical-Systems-0098,Electrical Systems,2022-07-09,2384,2029-01-17,24695.49,Medium,SUP17
+P0099,Engine-Components-0099,Engine Components,2021-12-13,2122,2027-10-05,260911.92,High,SUP06
+P0100,Engine-Components-0100,Engine Components,2021-10-22,2624,2028-12-28,290455.82,Medium,SUP05
+P0101,Rotor-Transmission-0101,Rotor & Transmission,2022-10-16,1496,2026-11-20,345873.06,High,SUP01
+P0102,Landing-Gear-0102,Landing Gear,2021-10-10,2173,2027-09-22,104177.59,Medium,SUP02
+P0103,Composite-Materials-0103,Composite Materials,2021-10-21,631,2026-11-20,3820.84,Low,SUP18
+P0104,Engine-Components-0104,Engine Components,2021-11-27,2341,2028-04-25,298358.08,High,SUP15
+P0105,Fasteners-Hardware-0105,Fasteners & Hardware,2021-06-03,4050,2032-07-05,380.02,Low,SUP07
+P0106,Electrical-Systems-0106,Electrical Systems,2022-03-02,2376,2028-09-02,19283.38,Medium,SUP15
+P0107,Landing-Gear-0107,Landing Gear,2022-07-20,2426,2029-03-11,274122.85,Medium,SUP15
+P0108,Fasteners-Hardware-0108,Fasteners & Hardware,2022-08-17,4244,2034-03-31,266.57,Low,SUP10
+P0109,Engine-Components-0109,Engine Components,2021-07-05,2188,2027-07-02,166209.97,Medium,SUP02
+P0110,Landing-Gear-0110,Landing Gear,2022-09-29,2628,2029-12-09,175061.12,Medium,SUP16
+P0111,Composite-Materials-0111,Composite Materials,2022-03-27,737,2026-08-10,9662.49,Low,SUP03
+P0112,Avionics-Avionics-0112,Avionics,2022-12-28,1335,2026-08-24,128348.37,Medium,SUP10
+P0113,Electrical-Systems-0113,Electrical Systems,2022-05-14,1344,2026-01-17,4483.67,Medium,SUP14
+P0114,Avionics-Avionics-0114,Avionics,2022-10-21,1495,2026-11-24,43174.71,High,SUP15
+P0115,Cockpit-Instruments-0115,Cockpit Instruments,2022-09-17,2267,2028-12-01,64398.35,Low,SUP17
+P0116,Rotor-Transmission-0116,Rotor & Transmission,2022-04-24,1301,2026-11-03,352588.4,Low,SUP15
+P0117,Composite-Materials-0117,Composite Materials,2022-10-16,695,2026-07-10,20927.35,Medium,SUP13
+P0118,Rotor-Transmission-0118,Rotor & Transmission,2022-12-26,1502,2027-02-05,53205.95,Medium,SUP14
+P0119,Avionics-Avionics-0119,Avionics,2022-12-18,1798,2027-11-20,100534.23,High,SUP05
+P0120,Rotor-Transmission-0120,Rotor & Transmission,2022-10-08,2208,2028-10-24,243027.43,Medium,SUP12
+P0121,Cockpit-Instruments-0121,Cockpit Instruments,2021-06-01,2390,2027-12-17,81023.24,Medium,SUP09
+P0122,Avionics-Avionics-0122,Avionics,2022-11-29,1805,2027-11-08,35645.65,Medium,SUP08
+P0123,Engine-Components-0123,Engine Components,2021-04-29,2068,2026-12-27,304006.34,Medium,SUP02
+P0124,Composite-Materials-0124,Composite Materials,2021-12-21,541,2026-12-10,21435.16,High,SUP06
+P0125,Electrical-Systems-0125,Electrical Systems,2021-10-13,1392,2026-02-21,8886.82,High,SUP09
+P0126,Fasteners-Hardware-0126,Fasteners & Hardware,2022-05-18,2545,2029-05-06,35.3,Low,SUP06
+P0127,Avionics-Avionics-0127,Avionics,2021-03-27,2376,2027-09-28,123679.72,Low,SUP06
+P0128,Landing-Gear-0128,Landing Gear,2021-01-17,3093,2029-07-07,251632.6,Medium,SUP19
+P0129,Hydraulic-Systems-0129,Hydraulic Systems,2021-01-08,1191,2026-10-10,15287.41,Medium,SUP17
+P0130,Engine-Components-0130,Engine Components,2022-08-16,1932,2027-11-30,324779.02,Low,SUP13
+P0131,Landing-Gear-0131,Landing Gear,2022-12-23,2405,2029-07-24,43992.35,Medium,SUP10
+P0132,Avionics-Avionics-0132,Avionics,2022-02-15,2214,2028-03-09,78023.69,High,SUP09
+P0133,Engine-Components-0133,Engine Components,2021-07-01,2209,2027-07-19,102513.23,Medium,SUP17
+P0134,Hydraulic-Systems-0134,Hydraulic Systems,2022-02-02,1768,2026-12-06,50684.07,Low,SUP11
+P0135,Cockpit-Instruments-0135,Cockpit Instruments,2021-08-07,2068,2027-04-06,24810.15,Medium,SUP08
+P0136,Cockpit-Instruments-0136,Cockpit Instruments,2022-03-17,2699,2029-08-06,69541.16,High,SUP05
+P0137,Landing-Gear-0137,Landing Gear,2022-08-23,2741,2030-02-23,209603.25,Medium,SUP10
+P0138,Cockpit-Instruments-0138,Cockpit Instruments,2021-04-26,2177,2027-04-12,64004.53,Medium,SUP19
+P0139,Electrical-Systems-0139,Electrical Systems,2021-03-08,1726,2026-09-23,17113.87,Medium,SUP15
+P0140,Fasteners-Hardware-0140,Fasteners & Hardware,2022-09-20,2666,2030-01-07,270.61,Medium,SUP19
+P0141,Electrical-Systems-0141,Electrical Systems,2021-06-27,1953,2026-11-01,28315.3,High,SUP15
+P0142,Engine-Components-0142,Engine Components,2021-11-08,2840,2029-08-18,290057.49,Low,SUP01
+P0143,Hydraulic-Systems-0143,Hydraulic Systems,2022-06-20,1028,2027-01-10,47821.46,Medium,SUP10
+P0144,Hydraulic-Systems-0144,Hydraulic Systems,2022-07-27,1207,2026-03-20,53222.11,Medium,SUP13
+P0145,Composite-Materials-0145,Composite Materials,2021-03-25,633,2026-03-30,25346.44,High,SUP15
+P0146,Airframe-Structures-0146,Airframe Structures,2022-09-29,3440,2032-02-29,111115.36,Medium,SUP04
+P0147,Airframe-Structures-0147,Airframe Structures,2021-03-13,3198,2029-12-14,110265.07,High,SUP10
+P0148,Composite-Materials-0148,Composite Materials,2022-01-21,579,2026-07-19,24585.5,Low,SUP12
+P0149,Rotor-Transmission-0149,Rotor & Transmission,2021-04-19,1807,2026-03-31,251042.74,Medium,SUP11
+P0150,Airframe-Structures-0150,Airframe Structures,2022-08-28,3580,2032-06-16,138625.07,High,SUP09
+P0151,Electrical-Systems-0151,Electrical Systems,2022-03-11,1325,2026-08-06,4164.99,Low,SUP01
+P0152,Hydraulic-Systems-0152,Hydraulic Systems,2022-07-04,1655,2027-01-14,59166.27,Low,SUP01
+P0153,Electrical-Systems-0153,Electrical Systems,2021-03-12,1909,2026-06-03,16527.47,Medium,SUP09
+P0154,Rotor-Transmission-0154,Rotor & Transmission,2021-06-06,1205,2026-10-28,329027.24,Medium,SUP11
+P0155,Electrical-Systems-0155,Electrical Systems,2021-11-10,1616,2026-04-14,11697.69,Low,SUP11
+P0156,Landing-Gear-0156,Landing Gear,2022-07-06,2839,2030-04-14,97021.14,Medium,SUP01
+P0157,Engine-Components-0157,Engine Components,2021-03-07,1916,2026-06-05,401223.07,High,SUP17
+P0158,Fasteners-Hardware-0158,Fasteners & Hardware,2022-08-07,3647,2032-08-01,488.02,Medium,SUP08
+P0159,Engine-Components-0159,Engine Components,2022-06-01,1964,2027-10-17,184818.16,Medium,SUP19
+P0160,Engine-Components-0160,Engine Components,2021-11-04,2208,2027-11-21,66447.35,Medium,SUP01
+P0161,Landing-Gear-0161,Landing Gear,2022-09-11,2743,2030-03-16,152387.99,Medium,SUP06
+P0162,Landing-Gear-0162,Landing Gear,2022-11-08,2127,2028-09-04,71914.87,Low,SUP10
+P0163,Rotor-Transmission-0163,Rotor & Transmission,2022-10-07,1831,2027-10-12,363074.95,Low,SUP18
+P0164,Fasteners-Hardware-0164,Fasteners & Hardware,2021-10-16,2567,2028-10-26,332.87,Medium,SUP08
+P0165,Electrical-Systems-0165,Electrical Systems,2022-11-12,1883,2028-01-08,11499.59,Medium,SUP15
+P0166,Composite-Materials-0166,Composite Materials,2022-10-16,495,2026-08-08,6679.33,Medium,SUP14
+P0167,Airframe-Structures-0167,Airframe Structures,2022-12-26,2282,2029-03-26,142217.36,Medium,SUP01
+P0168,Fasteners-Hardware-0168,Fasteners & Hardware,2021-07-03,2806,2029-03-09,425.58,Medium,SUP18
+P0169,Avionics-Avionics-0169,Avionics,2021-07-28,1937,2026-11-16,183912.32,High,SUP02
+P0170,Landing-Gear-0170,Landing Gear,2022-04-16,2282,2028-07-15,189379.63,Medium,SUP09
+P0171,Avionics-Avionics-0171,Avionics,2021-08-14,1329,2026-07-24,174992.24,Low,SUP17
+P0172,Rotor-Transmission-0172,Rotor & Transmission,2021-01-05,2382,2027-07-15,243679.58,Low,SUP17
+P0173,Avionics-Avionics-0173,Avionics,2021-06-29,1403,2026-03-22,24044.48,Medium,SUP07
+P0174,Cockpit-Instruments-0174,Cockpit Instruments,2022-12-29,2752,2030-07-12,19427.2,High,SUP13
+P0175,Avionics-Avionics-0175,Avionics,2022-08-09,1027,2027-01-29,69015.32,Medium,SUP10
+P0176,Airframe-Structures-0176,Airframe Structures,2021-02-24,2134,2026-12-29,79732.71,Medium,SUP12
+P0177,Fasteners-Hardware-0177,Fasteners & Hardware,2022-12-06,2850,2030-09-25,62.22,Low,SUP06
+P0178,Composite-Materials-0178,Composite Materials,2021-10-04,703,2026-03-26,12277.03,Medium,SUP17
+P0179,Rotor-Transmission-0179,Rotor & Transmission,2021-06-23,2125,2027-04-18,185577.34,High,SUP11
+P0180,Engine-Components-0180,Engine Components,2022-12-04,2404,2029-07-04,87259.4,Medium,SUP08
+P0181,Airframe-Structures-0181,Airframe Structures,2022-05-20,2594,2029-06-26,110666.43,Low,SUP15
+P0182,Composite-Materials-0182,Composite Materials,2022-03-19,756,2026-10-01,37662.7,High,SUP15
+P0183,Airframe-Structures-0183,Airframe Structures,2021-08-13,3683,2031-09-13,32681.94,Medium,SUP02
+P0184,Cockpit-Instruments-0184,Cockpit Instruments,2021-01-19,1659,2026-12-16,71214.8,Medium,SUP01
+P0185,Cockpit-Instruments-0185,Cockpit Instruments,2022-12-08,2397,2029-07-01,65803.9,High,SUP03
+P0186,Avionics-Avionics-0186,Avionics,2021-09-11,2042,2027-04-15,163894.86,High,SUP12
+P0187,Landing-Gear-0187,Landing Gear,2022-12-16,3253,2031-11-12,114941.07,Low,SUP17
+P0188,Composite-Materials-0188,Composite Materials,2022-10-13,706,2026-06-10,31060.52,Medium,SUP16
+P0189,Electrical-Systems-0189,Electrical Systems,2022-04-09,2284,2028-07-10,29456.15,High,SUP09
+P0190,Rotor-Transmission-0190,Rotor & Transmission,2021-01-21,2046,2026-08-29,54193.65,Low,SUP07
+P0191,Hydraulic-Systems-0191,Hydraulic Systems,2021-08-22,1073,2026-12-03,45206.3,Medium,SUP18
+P0192,Airframe-Structures-0192,Airframe Structures,2021-08-30,2638,2028-11-19,128236.92,Medium,SUP14
+P0193,Composite-Materials-0193,Composite Materials,2022-09-26,429,2026-06-14,11510.33,Low,SUP11
+P0194,Composite-Materials-0194,Composite Materials,2022-11-24,581,2026-02-20,19318.19,Medium,SUP17
+P0195,Airframe-Structures-0195,Airframe Structures,2021-01-10,2637,2028-03-31,120701.24,Medium,SUP13
+P0196,Rotor-Transmission-0196,Rotor & Transmission,2022-07-16,1701,2027-03-13,355599.54,Low,SUP13
+P0197,Avionics-Avionics-0197,Avionics,2022-11-24,2198,2028-11-30,189032.19,High,SUP17
+P0198,Hydraulic-Systems-0198,Hydraulic Systems,2022-05-08,1422,2026-03-30,31387.97,Medium,SUP07
+P0199,Airframe-Structures-0199,Airframe Structures,2022-12-30,2477,2029-10-11,113261.52,Medium,SUP18
+P0200,Airframe-Structures-0200,Airframe Structures,2021-10-27,3178,2030-07-10,110177.46,High,SUP14
+P0201,Cockpit-Instruments-0201,Cockpit Instruments,2022-08-15,2087,2028-05-02,16976.34,Low,SUP05
+P0202,Hydraulic-Systems-0202,Hydraulic Systems,2021-10-19,1275,2026-12-25,9917.61,Low,SUP11
+P0203,Avionics-Avionics-0203,Avionics,2021-06-10,2486,2028-03-31,50066.11,Medium,SUP19
+P0204,Rotor-Transmission-0204,Rotor & Transmission,2021-08-14,1660,2026-03-01,56900.33,Low,SUP06
+P0205,Hydraulic-Systems-0205,Hydraulic Systems,2021-02-12,1772,2026-07-16,8181.35,Medium,SUP20
+P0206,Rotor-Transmission-0206,Rotor & Transmission,2021-11-09,1512,2026-10-31,229011.34,Low,SUP17
+P0207,Composite-Materials-0207,Composite Materials,2022-09-04,612,2026-04-29,36205.14,Medium,SUP09
+P0208,Airframe-Structures-0208,Airframe Structures,2021-04-25,2182,2027-04-16,91212.07,Medium,SUP09
+P0209,Landing-Gear-0209,Landing Gear,2021-07-30,3351,2030-10-02,288025.9,Medium,SUP05
+P0210,Avionics-Avionics-0210,Avionics,2022-02-08,1559,2026-05-17,93521.58,Medium,SUP16
+P0211,Rotor-Transmission-0211,Rotor & Transmission,2021-02-13,2354,2027-07-26,231736.91,Medium,SUP05
+P0212,Engine-Components-0212,Engine Components,2022-02-18,2824,2029-11-12,77682.66,Medium,SUP03
+P0213,Composite-Materials-0213,Composite Materials,2022-03-19,655,2026-12-12,27498.14,Low,SUP19
+P0214,Composite-Materials-0214,Composite Materials,2021-02-20,449,2026-02-13,12075.56,Medium,SUP13
+P0215,Cockpit-Instruments-0215,Cockpit Instruments,2021-03-06,1658,2026-09-29,84267.41,Low,SUP07
+P0216,Hydraulic-Systems-0216,Hydraulic Systems,2022-12-02,1684,2027-07-13,53447.89,Low,SUP10
+P0217,Hydraulic-Systems-0217,Hydraulic Systems,2022-01-11,1044,2026-10-22,45892.95,Medium,SUP13
+P0218,Fasteners-Hardware-0218,Fasteners & Hardware,2021-03-06,2710,2028-08-06,104.64,Low,SUP17
+P0219,Composite-Materials-0219,Composite Materials,2022-01-02,704,2027-01-11,12612.73,Low,SUP06
+P0220,Landing-Gear-0220,Landing Gear,2022-05-23,2774,2029-12-26,235477.53,Low,SUP15
+P0221,Hydraulic-Systems-0221,Hydraulic Systems,2021-09-05,1743,2026-06-14,10638.04,High,SUP17
+P0222,Electrical-Systems-0222,Electrical Systems,2022-12-11,1768,2027-10-14,21840.02,Medium,SUP18
+P0223,Avionics-Avionics-0223,Avionics,2021-01-16,2014,2026-07-23,198226.71,Medium,SUP03
+P0224,Airframe-Structures-0224,Airframe Structures,2022-11-30,2049,2028-07-10,116156.85,Medium,SUP15
+P0225,Landing-Gear-0225,Landing Gear,2021-09-07,1801,2026-08-13,98177.36,High,SUP04
+P0226,Engine-Components-0226,Engine Components,2022-04-06,2781,2029-11-16,95987.13,Low,SUP11
+P0227,Airframe-Structures-0227,Airframe Structures,2022-10-10,3545,2032-06-24,127592.6,Medium,SUP03
+P0228,Engine-Components-0228,Engine Components,2022-12-12,1546,2027-03-07,483456.49,Low,SUP05
+P0229,Airframe-Structures-0229,Airframe Structures,2021-12-11,2548,2028-12-02,65663.22,Medium,SUP06
+P0230,Avionics-Avionics-0230,Avionics,2021-07-27,1046,2026-03-24,58358.85,Medium,SUP12
+P0231,Composite-Materials-0231,Composite Materials,2021-05-07,473,2027-01-05,8892.09,Low,SUP15
+P0232,Avionics-Avionics-0232,Avionics,2021-02-08,1939,2026-06-01,156984.32,Low,SUP03
+P0233,Airframe-Structures-0233,Airframe Structures,2022-06-10,2963,2030-07-21,121515.22,Medium,SUP12
+P0234,Airframe-Structures-0234,Airframe Structures,2021-01-06,2401,2027-08-04,70242.83,Medium,SUP02
+P0235,Composite-Materials-0235,Composite Materials,2021-01-11,891,2026-05-02,19030.13,High,SUP18
+P0236,Avionics-Avionics-0236,Avionics,2021-07-07,1900,2026-09-19,106388.99,Medium,SUP01
+P0237,Electrical-Systems-0237,Electrical Systems,2021-02-10,2069,2026-10-11,27418.92,High,SUP17
+P0238,Cockpit-Instruments-0238,Cockpit Instruments,2022-02-26,1527,2026-05-03,54814.17,Medium,SUP20
+P0239,Engine-Components-0239,Engine Components,2022-12-31,1514,2027-02-22,301841.91,Medium,SUP09
+P0240,Engine-Components-0240,Engine Components,2022-09-21,2036,2028-04-18,421031.32,High,SUP07
+P0241,Rotor-Transmission-0241,Rotor & Transmission,2022-09-18,2160,2028-08-17,288207.39,High,SUP17
+P0242,Composite-Materials-0242,Composite Materials,2022-12-24,742,2027-02-01,26547.92,Low,SUP07
+P0243,Cockpit-Instruments-0243,Cockpit Instruments,2021-02-11,2806,2028-10-18,66142.96,Medium,SUP20
+P0244,Fasteners-Hardware-0244,Fasteners & Hardware,2021-12-08,3882,2032-07-25,333.8,Low,SUP03
+P0245,Cockpit-Instruments-0245,Cockpit Instruments,2022-12-21,2157,2028-11-16,21447.96,High,SUP13
+P0246,Cockpit-Instruments-0246,Cockpit Instruments,2021-06-14,1828,2026-06-16,79486.25,Medium,SUP13
+P0247,Composite-Materials-0247,Composite Materials,2022-03-20,597,2026-10-21,35257.81,Medium,SUP18
+P0248,Electrical-Systems-0248,Electrical Systems,2022-01-15,1474,2026-01-28,22137.65,Medium,SUP03
+P0249,Rotor-Transmission-0249,Rotor & Transmission,2022-06-09,1464,2026-06-12,185174.09,High,SUP12
+P0250,Engine-Components-0250,Engine Components,2022-12-09,2590,2030-01-11,440722.63,Medium,SUP04
+P0251,Airframe-Structures-0251,Airframe Structures,2021-05-04,3086,2029-10-15,80678.28,Medium,SUP02
+P0252,Airframe-Structures-0252,Airframe Structures,2022-03-13,3801,2032-08-08,132279.25,High,SUP19
+P0253,Rotor-Transmission-0253,Rotor & Transmission,2022-05-10,1452,2026-05-01,368450.8,Medium,SUP15
+P0254,Engine-Components-0254,Engine Components,2021-09-11,2573,2028-09-27,109205.46,High,SUP12
+P0255,Avionics-Avionics-0255,Avionics,2021-06-28,2281,2027-09-26,52575.85,High,SUP15
+P0256,Composite-Materials-0256,Composite Materials,2022-08-10,719,2026-03-06,24438.35,Medium,SUP02
+P0257,Landing-Gear-0257,Landing Gear,2021-11-04,2385,2028-05-16,207318.9,Medium,SUP04
+P0258,Fasteners-Hardware-0258,Fasteners & Hardware,2021-01-25,3090,2029-07-12,232.36,Medium,SUP16
+P0259,Rotor-Transmission-0259,Rotor & Transmission,2022-01-06,2003,2027-07-02,201559.93,Medium,SUP20
+P0260,Composite-Materials-0260,Composite Materials,2021-06-05,743,2026-08-24,25834.36,Medium,SUP11
+P0261,Hydraulic-Systems-0261,Hydraulic Systems,2022-03-03,1380,2026-04-21,24620.26,Low,SUP12
+P0262,Composite-Materials-0262,Composite Materials,2021-04-22,829,2026-03-21,24658.11,Medium,SUP20
+P0263,Avionics-Avionics-0263,Avionics,2022-03-15,1184,2027-01-25,197604.74,Low,SUP01
+P0264,Fasteners-Hardware-0264,Fasteners & Hardware,2022-11-04,2950,2030-12-02,120.1,Medium,SUP17
+P0265,Landing-Gear-0265,Landing Gear,2021-02-08,2067,2026-10-07,41224.67,Medium,SUP11
+P0266,Avionics-Avionics-0266,Avionics,2022-11-24,2459,2029-08-18,78163.52,Medium,SUP15
+P0267,Avionics-Avionics-0267,Avionics,2022-08-04,1798,2027-07-07,81677.63,High,SUP13
+P0268,Airframe-Structures-0268,Airframe Structures,2021-12-23,2403,2028-07-22,108655.31,High,SUP01
+P0269,Fasteners-Hardware-0269,Fasteners & Hardware,2021-08-03,3609,2031-06-21,339.58,Low,SUP15
+P0270,Avionics-Avionics-0270,Avionics,2021-11-01,2467,2028-08-03,139093.82,Medium,SUP18
+P0271,Avionics-Avionics-0271,Avionics,2021-05-24,2303,2027-09-13,131212.5,High,SUP14
+P0272,Airframe-Structures-0272,Airframe Structures,2021-03-19,2431,2027-11-14,104711.87,Medium,SUP05
+P0273,Cockpit-Instruments-0273,Cockpit Instruments,2021-01-28,2486,2027-11-19,16740.63,High,SUP09
+P0274,Engine-Components-0274,Engine Components,2021-05-27,2806,2029-01-31,233108.58,High,SUP09
+P0275,Airframe-Structures-0275,Airframe Structures,2021-03-29,3530,2030-11-27,101071.63,Medium,SUP06
+P0276,Avionics-Avionics-0276,Avionics,2022-01-02,2196,2028-01-07,157211.32,Low,SUP07
+P0277,Cockpit-Instruments-0277,Cockpit Instruments,2021-01-21,2445,2027-10-02,34927.26,Medium,SUP19
+P0278,Cockpit-Instruments-0278,Cockpit Instruments,2022-03-17,2318,2028-07-21,56911.81,High,SUP11
+P0279,Landing-Gear-0279,Landing Gear,2022-12-30,2956,2031-02-02,75479.98,Medium,SUP08
+P0280,Avionics-Avionics-0280,Avionics,2022-08-01,1038,2026-02-01,106252.74,High,SUP05
+P0281,Avionics-Avionics-0281,Avionics,2022-11-20,1369,2026-08-20,114792.28,Low,SUP06
+P0282,Avionics-Avionics-0282,Avionics,2022-12-12,1781,2027-10-28,148788.36,High,SUP16
+P0283,Hydraulic-Systems-0283,Hydraulic Systems,2021-01-17,1119,2026-03-25,54391.68,Medium,SUP04
+P0284,Hydraulic-Systems-0284,Hydraulic Systems,2022-02-02,1075,2026-05-16,31355.08,Medium,SUP16
+P0285,Hydraulic-Systems-0285,Hydraulic Systems,2022-07-30,1176,2026-10-17,20668.01,Medium,SUP16
+P0286,Rotor-Transmission-0286,Rotor & Transmission,2021-05-23,2059,2027-01-11,259720.16,Medium,SUP11
+P0287,Fasteners-Hardware-0287,Fasteners & Hardware,2022-07-27,2953,2030-08-27,343.75,Medium,SUP17
+P0288,Rotor-Transmission-0288,Rotor & Transmission,2022-10-10,2301,2029-01-27,106682.24,Medium,SUP07
+P0289,Electrical-Systems-0289,Electrical Systems,2022-01-05,1252,2026-12-06,17406.34,High,SUP13
+P0290,Fasteners-Hardware-0290,Fasteners & Hardware,2022-05-27,3787,2032-10-08,322.61,High,SUP09
+P0291,Rotor-Transmission-0291,Rotor & Transmission,2021-02-19,1632,2026-08-09,102918.44,Low,SUP16
+P0292,Engine-Components-0292,Engine Components,2022-11-13,2670,2030-03-06,156591.75,Medium,SUP04
+P0293,Fasteners-Hardware-0293,Fasteners & Hardware,2021-02-25,2738,2028-08-25,337.1,High,SUP18
+P0294,Hydraulic-Systems-0294,Hydraulic Systems,2022-05-21,1563,2026-08-31,14240.78,Medium,SUP17
+P0295,Electrical-Systems-0295,Electrical Systems,2021-10-04,1970,2027-02-25,2661.88,Medium,SUP10
+P0296,Cockpit-Instruments-0296,Cockpit Instruments,2022-04-23,2391,2028-11-08,40054.29,High,SUP03
+P0297,Fasteners-Hardware-0297,Fasteners & Hardware,2021-12-24,3510,2031-08-04,350.62,Medium,SUP09
+P0298,Engine-Components-0298,Engine Components,2022-03-06,2011,2027-09-07,57119.49,High,SUP06
+P0299,Rotor-Transmission-0299,Rotor & Transmission,2022-11-27,2127,2028-09-23,365988.93,High,SUP01
+P0300,Airframe-Structures-0300,Airframe Structures,2022-10-24,2646,2030-01-21,36861.43,Medium,SUP04
+P0301,Engine-Components-0301,Engine Components,2021-10-31,2504,2028-09-08,424338.4,High,SUP08
+P0302,Electrical-Systems-0302,Electrical Systems,2021-12-17,2016,2027-06-25,18598.74,Medium,SUP06
+P0303,Avionics-Avionics-0303,Avionics,2022-06-07,1992,2027-11-20,198945.09,Low,SUP20
+P0304,Composite-Materials-0304,Composite Materials,2021-10-06,412,2026-09-05,24477.58,High,SUP15
+P0305,Cockpit-Instruments-0305,Cockpit Instruments,2021-03-03,2114,2026-12-16,21979.19,Medium,SUP16
+P0306,Engine-Components-0306,Engine Components,2021-08-05,2971,2029-09-23,185383.9,Low,SUP13
+P0307,Fasteners-Hardware-0307,Fasteners & Hardware,2021-08-03,2881,2029-06-23,205.66,Medium,SUP12
+P0308,Engine-Components-0308,Engine Components,2021-11-22,2281,2028-02-20,428914.98,High,SUP07
+P0309,Engine-Components-0309,Engine Components,2021-08-20,2260,2027-10-28,323818.89,Medium,SUP14
+P0310,Airframe-Structures-0310,Airframe Structures,2021-06-03,2526,2028-05-03,52437.97,Medium,SUP02
+P0311,Cockpit-Instruments-0311,Cockpit Instruments,2022-07-06,1958,2027-11-15,53411.78,High,SUP04
+P0312,Avionics-Avionics-0312,Avionics,2022-08-12,2379,2029-02-15,112822.3,Low,SUP05
+P0313,Airframe-Structures-0313,Airframe Structures,2022-11-21,3861,2033-06-17,39191.47,Medium,SUP13
+P0314,Landing-Gear-0314,Landing Gear,2021-09-27,2758,2029-04-16,212062.03,Low,SUP16
+P0315,Fasteners-Hardware-0315,Fasteners & Hardware,2021-11-23,2702,2029-04-17,159.29,High,SUP02
+P0316,Landing-Gear-0316,Landing Gear,2022-04-11,3556,2032-01-05,123446.93,Low,SUP01
+P0317,Airframe-Structures-0317,Airframe Structures,2022-01-31,2278,2028-04-27,94891.93,Low,SUP20
+P0318,Landing-Gear-0318,Landing Gear,2021-03-20,3285,2030-03-18,287255.33,Medium,SUP08
+P0319,Hydraulic-Systems-0319,Hydraulic Systems,2021-06-01,1021,2026-03-15,6419.65,High,SUP12
+P0320,Airframe-Structures-0320,Airframe Structures,2021-12-08,2211,2027-12-28,71531.64,High,SUP11
+P0321,Avionics-Avionics-0321,Avionics,2021-08-03,1228,2026-07-11,137036.2,Low,SUP10
+P0322,Cockpit-Instruments-0322,Cockpit Instruments,2022-04-24,2992,2030-07-03,12769.43,Medium,SUP15
+P0323,Cockpit-Instruments-0323,Cockpit Instruments,2022-08-06,1755,2027-05-27,43287.65,High,SUP14
+P0324,Landing-Gear-0324,Landing Gear,2021-05-03,3044,2029-09-02,77996.92,Medium,SUP07
+P0325,Composite-Materials-0325,Composite Materials,2022-05-26,694,2026-08-20,33116.9,Medium,SUP06
+P0326,Fasteners-Hardware-0326,Fasteners & Hardware,2021-01-29,4480,2033-05-06,364.92,Medium,SUP03
+P0327,Fasteners-Hardware-0327,Fasteners & Hardware,2021-10-04,3704,2031-11-25,267.5,Medium,SUP05
+P0328,Fasteners-Hardware-0328,Fasteners & Hardware,2022-05-01,3703,2032-06-20,213.92,Low,SUP10
+P0329,Fasteners-Hardware-0329,Fasteners & Hardware,2022-10-29,3838,2033-05-02,77.18,Medium,SUP18
+P0330,Hydraulic-Systems-0330,Hydraulic Systems,2021-03-01,958,2026-10-27,15937.1,Medium,SUP03
+P0331,Engine-Components-0331,Engine Components,2022-02-28,2181,2028-02-18,296581.77,High,SUP04
+P0332,Avionics-Avionics-0332,Avionics,2022-05-20,2106,2028-02-24,78441.67,Medium,SUP20
+P0333,Electrical-Systems-0333,Electrical Systems,2021-04-17,2347,2027-09-20,12987.02,Low,SUP17
+P0334,Composite-Materials-0334,Composite Materials,2021-06-09,733,2027-01-16,14670.06,High,SUP01
+P0335,Rotor-Transmission-0335,Rotor & Transmission,2022-05-15,1503,2026-06-26,374914.8,Medium,SUP11
+P0336,Fasteners-Hardware-0336,Fasteners & Hardware,2022-06-16,4737,2035-06-05,333.08,High,SUP17
+P0337,Fasteners-Hardware-0337,Fasteners & Hardware,2021-11-12,2875,2029-09-26,264.02,Low,SUP05
+P0338,Composite-Materials-0338,Composite Materials,2022-11-20,410,2026-11-30,4541.9,Medium,SUP19
+P0339,Composite-Materials-0339,Composite Materials,2022-08-07,384,2026-10-28,6898.6,Medium,SUP14
+P0340,Airframe-Structures-0340,Airframe Structures,2021-12-07,3549,2031-08-26,58958.45,Low,SUP19
+P0341,Rotor-Transmission-0341,Rotor & Transmission,2022-01-15,1992,2027-06-30,75422.43,High,SUP10
+P0342,Electrical-Systems-0342,Electrical Systems,2022-01-30,1817,2027-01-21,4313.29,High,SUP08
+P0343,Cockpit-Instruments-0343,Cockpit Instruments,2021-06-20,2501,2028-04-25,88031.25,High,SUP04
+P0344,Cockpit-Instruments-0344,Cockpit Instruments,2022-06-26,2295,2028-10-07,60800.15,Low,SUP10
+P0345,Hydraulic-Systems-0345,Hydraulic Systems,2021-12-24,1326,2026-09-02,11887.85,Medium,SUP16
+P0346,Avionics-Avionics-0346,Avionics,2021-11-26,1507,2026-01-11,43057.23,High,SUP08
+P0347,Rotor-Transmission-0347,Rotor & Transmission,2021-11-14,2331,2028-04-02,260658.25,Low,SUP12
+P0348,Landing-Gear-0348,Landing Gear,2022-09-02,2962,2030-10-12,269469.72,Low,SUP07
+P0349,Engine-Components-0349,Engine Components,2022-08-06,2316,2028-12-08,166294.23,Low,SUP08
+P0350,Composite-Materials-0350,Composite Materials,2022-06-13,461,2026-10-09,23639.09,Medium,SUP11
+P0351,Cockpit-Instruments-0351,Cockpit Instruments,2021-09-23,1564,2026-01-04,84865.82,High,SUP15
+P0352,Airframe-Structures-0352,Airframe Structures,2021-11-21,2427,2028-07-14,124489.95,Low,SUP13
+P0353,Electrical-Systems-0353,Electrical Systems,2021-02-05,1908,2026-04-28,17182.64,Medium,SUP19
+P0354,Fasteners-Hardware-0354,Fasteners & Hardware,2021-12-31,4683,2034-10-27,347.55,Low,SUP05
+P0355,Composite-Materials-0355,Composite Materials,2022-08-26,369,2026-08-08,20077.63,Medium,SUP03
+P0356,Engine-Components-0356,Engine Components,2021-08-29,1790,2026-07-24,175055.94,Medium,SUP14
+P0357,Fasteners-Hardware-0357,Fasteners & Hardware,2022-09-12,4219,2034-04-01,311.34,Low,SUP20
+P0358,Airframe-Structures-0358,Airframe Structures,2021-06-15,3521,2031-02-04,10732.15,Low,SUP14
+P0359,Cockpit-Instruments-0359,Cockpit Instruments,2021-05-25,2051,2027-01-05,86562.03,Low,SUP06
+P0360,Composite-Materials-0360,Composite Materials,2021-04-19,431,2026-11-22,21575.86,Medium,SUP20
+P0361,Rotor-Transmission-0361,Rotor & Transmission,2021-09-20,1911,2026-12-14,359030.48,High,SUP07
+P0362,Hydraulic-Systems-0362,Hydraulic Systems,2022-06-28,1050,2026-08-31,6598.93,Low,SUP20
+P0363,Engine-Components-0363,Engine Components,2021-07-25,2221,2027-08-24,314691.02,Medium,SUP05
+P0364,Rotor-Transmission-0364,Rotor & Transmission,2021-07-15,1872,2026-08-30,242134.45,Medium,SUP18
+P0365,Landing-Gear-0365,Landing Gear,2022-02-17,3285,2031-02-15,102851.59,High,SUP13
+P0366,Rotor-Transmission-0366,Rotor & Transmission,2021-01-28,2146,2026-12-14,294765.14,Medium,SUP13
+P0367,Airframe-Structures-0367,Airframe Structures,2021-09-08,3471,2031-03-11,27132.75,High,SUP20
+P0368,Engine-Components-0368,Engine Components,2022-09-06,2603,2029-10-22,319201.38,Medium,SUP17
+P0369,Electrical-Systems-0369,Electrical Systems,2021-11-29,2142,2027-10-11,19812.97,Medium,SUP14
+P0370,Fasteners-Hardware-0370,Fasteners & Hardware,2021-08-15,3969,2032-06-27,290.22,Medium,SUP10
+P0371,Avionics-Avionics-0371,Avionics,2022-04-23,2050,2027-12-03,49752.94,Medium,SUP06
+P0372,Engine-Components-0372,Engine Components,2021-11-02,2673,2029-02-26,468327.62,Low,SUP19
+P0373,Hydraulic-Systems-0373,Hydraulic Systems,2022-11-14,1067,2026-08-26,51306.35,Medium,SUP05
+P0374,Airframe-Structures-0374,Airframe Structures,2022-03-13,2161,2028-02-11,28687.2,Medium,SUP01
+P0375,Composite-Materials-0375,Composite Materials,2022-07-04,774,2026-09-24,29991.8,High,SUP12
+P0376,Cockpit-Instruments-0376,Cockpit Instruments,2021-07-03,2485,2028-04-22,69612.76,High,SUP12
+P0377,Rotor-Transmission-0377,Rotor & Transmission,2022-07-23,1514,2026-09-14,141587.35,High,SUP14
+P0378,Composite-Materials-0378,Composite Materials,2021-04-24,563,2027-01-03,39068.88,Low,SUP06
+P0379,Cockpit-Instruments-0379,Cockpit Instruments,2021-05-16,1550,2027-02-01,47980.84,Medium,SUP11
+P0380,Cockpit-Instruments-0380,Cockpit Instruments,2021-08-01,1972,2026-12-25,36365.48,High,SUP15
+P0381,Avionics-Avionics-0381,Avionics,2021-09-17,1822,2026-09-13,151840.77,Medium,SUP07
+P0382,Hydraulic-Systems-0382,Hydraulic Systems,2022-08-13,1276,2026-02-09,7874.18,Medium,SUP18
+P0383,Hydraulic-Systems-0383,Hydraulic Systems,2022-03-03,1078,2026-03-24,40979.6,Medium,SUP12
+P0384,Cockpit-Instruments-0384,Cockpit Instruments,2021-04-13,1533,2026-11-06,23007.27,High,SUP10
+P0385,Cockpit-Instruments-0385,Cockpit Instruments,2021-05-19,2341,2027-10-16,77750.52,Low,SUP02
+P0386,Rotor-Transmission-0386,Rotor & Transmission,2022-07-09,2150,2028-05-28,235316.49,Medium,SUP06
+P0387,Electrical-Systems-0387,Electrical Systems,2021-08-03,1714,2026-04-13,25713.72,Low,SUP16
+P0388,Cockpit-Instruments-0388,Cockpit Instruments,2021-10-24,2193,2027-10-26,62859.83,Medium,SUP12
+P0389,Composite-Materials-0389,Composite Materials,2021-06-10,424,2026-09-04,32117.89,Medium,SUP19
+P0390,Engine-Components-0390,Engine Components,2021-07-19,1887,2026-09-18,140613.7,Medium,SUP04
+P0391,Airframe-Structures-0391,Airframe Structures,2022-06-03,2409,2029-01-06,82714.02,Medium,SUP20
+P0392,Cockpit-Instruments-0392,Cockpit Instruments,2021-10-12,2626,2028-12-20,53934.95,Medium,SUP03
+P0393,Composite-Materials-0393,Composite Materials,2022-05-20,574,2026-10-09,13449.94,High,SUP20
+P0394,Fasteners-Hardware-0394,Fasteners & Hardware,2021-01-23,3451,2030-07-06,412.83,Low,SUP12
+P0395,Rotor-Transmission-0395,Rotor & Transmission,2022-03-11,1628,2026-08-25,73853.0,Medium,SUP08
+P0396,Fasteners-Hardware-0396,Fasteners & Hardware,2022-05-09,2989,2030-07-15,324.91,Medium,SUP10
+P0397,Airframe-Structures-0397,Airframe Structures,2021-12-11,2332,2028-04-30,88094.83,Medium,SUP18
+P0398,Composite-Materials-0398,Composite Materials,2021-07-31,684,2026-08-06,21760.89,Low,SUP16
+P0399,Hydraulic-Systems-0399,Hydraulic Systems,2021-07-07,1453,2026-03-12,29217.79,High,SUP11
+P0400,Fasteners-Hardware-0400,Fasteners & Hardware,2021-07-18,3544,2031-04-01,483.89,Medium,SUP02
+P0401,Airframe-Structures-0401,Airframe Structures,2021-06-10,3959,2032-04-12,149590.94,High,SUP05
+P0402,Cockpit-Instruments-0402,Cockpit Instruments,2021-03-07,1544,2026-07-06,15628.5,High,SUP05
+P0403,Landing-Gear-0403,Landing Gear,2021-12-26,3344,2031-02-21,80601.22,Low,SUP06
+P0404,Landing-Gear-0404,Landing Gear,2021-10-09,3578,2031-07-27,235087.25,Low,SUP12
+P0405,Cockpit-Instruments-0405,Cockpit Instruments,2022-08-24,2241,2028-10-12,37339.46,Low,SUP16
+P0406,Hydraulic-Systems-0406,Hydraulic Systems,2021-11-11,978,2026-02-14,11211.88,High,SUP20
+P0407,Avionics-Avionics-0407,Avionics,2022-02-22,1675,2026-09-24,82629.45,Medium,SUP16
+P0408,Electrical-Systems-0408,Electrical Systems,2022-03-19,2167,2028-02-23,22665.94,High,SUP16
+P0409,Avionics-Avionics-0409,Avionics,2022-07-30,2029,2028-02-18,78518.72,Medium,SUP06
+P0410,Cockpit-Instruments-0410,Cockpit Instruments,2021-04-02,2987,2029-06-06,61733.16,Medium,SUP04
+P0411,Rotor-Transmission-0411,Rotor & Transmission,2022-06-25,1566,2026-10-08,224555.71,High,SUP14
+P0412,Airframe-Structures-0412,Airframe Structures,2021-06-30,3742,2031-09-28,141362.67,Low,SUP13
+P0413,Avionics-Avionics-0413,Avionics,2022-05-28,2311,2028-09-24,137138.34,Medium,SUP02
+P0414,Composite-Materials-0414,Composite Materials,2021-08-19,486,2026-11-27,17041.61,Medium,SUP03
+P0415,Landing-Gear-0415,Landing Gear,2021-05-16,1999,2026-11-05,293736.09,High,SUP08
+P0416,Composite-Materials-0416,Composite Materials,2021-03-11,881,2026-04-05,4005.48,Low,SUP19
+P0417,Landing-Gear-0417,Landing Gear,2022-03-24,3058,2030-08-07,253030.54,High,SUP07
+P0418,Cockpit-Instruments-0418,Cockpit Instruments,2021-08-12,2744,2029-02-15,32989.59,Medium,SUP20
+P0419,Composite-Materials-0419,Composite Materials,2021-09-24,654,2027-01-10,29036.38,High,SUP01
+P0420,Composite-Materials-0420,Composite Materials,2022-02-02,806,2026-12-23,13501.65,Medium,SUP04
+P0421,Airframe-Structures-0421,Airframe Structures,2021-04-05,3754,2031-07-16,132813.52,Medium,SUP09
+P0422,Composite-Materials-0422,Composite Materials,2021-09-12,407,2026-02-08,9857.22,Low,SUP16
+P0423,Landing-Gear-0423,Landing Gear,2021-09-20,3220,2030-07-15,102299.7,Medium,SUP05
+P0424,Airframe-Structures-0424,Airframe Structures,2022-06-15,2976,2030-08-08,40831.54,Low,SUP04
+P0425,Landing-Gear-0425,Landing Gear,2022-10-29,3382,2032-02-01,253907.44,High,SUP15
+P0426,Composite-Materials-0426,Composite Materials,2021-06-22,597,2027-01-09,14727.02,High,SUP19
+P0427,Rotor-Transmission-0427,Rotor & Transmission,2021-07-18,1404,2026-06-08,99336.88,Medium,SUP20
+P0428,Cockpit-Instruments-0428,Cockpit Instruments,2021-10-04,1856,2026-11-03,65615.97,High,SUP04
+P0429,Electrical-Systems-0429,Electrical Systems,2021-08-28,2364,2028-02-17,24029.01,Low,SUP02
+P0430,Fasteners-Hardware-0430,Fasteners & Hardware,2022-04-15,3172,2030-12-21,492.08,Low,SUP18
+P0431,Engine-Components-0431,Engine Components,2022-03-25,2406,2028-10-25,67894.68,High,SUP10
+P0432,Engine-Components-0432,Engine Components,2021-11-04,2209,2027-11-22,252709.39,Medium,SUP16
+P0433,Airframe-Structures-0433,Airframe Structures,2022-11-14,3033,2031-03-05,38978.96,High,SUP08
+P0434,Airframe-Structures-0434,Airframe Structures,2022-01-26,2677,2029-05-26,25123.61,Medium,SUP10
+P0435,Electrical-Systems-0435,Electrical Systems,2021-07-02,1676,2026-02-02,28089.1,High,SUP17
+P0436,Composite-Materials-0436,Composite Materials,2022-07-03,835,2026-06-15,22669.18,Low,SUP13
+P0437,Landing-Gear-0437,Landing Gear,2021-06-24,3472,2030-12-26,151661.2,Medium,SUP12
+P0438,Landing-Gear-0438,Landing Gear,2022-09-15,3433,2032-02-08,140975.69,Medium,SUP16
+P0439,Engine-Components-0439,Engine Components,2022-04-27,2932,2030-05-07,420705.67,Medium,SUP14
+P0440,Fasteners-Hardware-0440,Fasteners & Hardware,2021-02-12,4573,2033-08-21,361.61,Medium,SUP18
+P0441,Avionics-Avionics-0441,Avionics,2021-04-03,1575,2026-04-03,40607.77,Medium,SUP05
+P0442,Landing-Gear-0442,Landing Gear,2022-09-11,2789,2030-05-01,191006.81,High,SUP19
+P0443,Cockpit-Instruments-0443,Cockpit Instruments,2022-09-19,2502,2029-07-26,85221.51,Medium,SUP19
+P0444,Rotor-Transmission-0444,Rotor & Transmission,2021-01-19,1366,2026-06-18,220775.3,Medium,SUP03
+P0445,Airframe-Structures-0445,Airframe Structures,2021-05-07,3481,2030-11-17,99302.79,High,SUP16
+P0446,Composite-Materials-0446,Composite Materials,2022-04-09,736,2026-04-21,33340.47,High,SUP01
+P0447,Fasteners-Hardware-0447,Fasteners & Hardware,2022-06-03,2609,2029-07-25,292.83,Low,SUP06
+P0448,Hydraulic-Systems-0448,Hydraulic Systems,2021-05-01,1286,2026-07-12,43087.11,High,SUP09
+P0449,Hydraulic-Systems-0449,Hydraulic Systems,2022-01-03,1431,2026-11-15,52395.84,Low,SUP03
+P0450,Landing-Gear-0450,Landing Gear,2022-10-31,3449,2032-04-10,261541.83,High,SUP11
+P0451,Rotor-Transmission-0451,Rotor & Transmission,2021-12-18,1232,2026-10-18,173218.84,Medium,SUP07
+P0452,Avionics-Avionics-0452,Avionics,2022-06-20,1645,2026-12-21,50034.84,High,SUP01
+P0453,Engine-Components-0453,Engine Components,2022-06-14,2009,2027-12-14,475990.0,Medium,SUP03
+P0454,Engine-Components-0454,Engine Components,2021-12-06,2770,2029-07-07,95566.96,Medium,SUP20
+P0455,Composite-Materials-0455,Composite Materials,2021-12-10,607,2026-09-18,39557.33,High,SUP18
+P0456,Hydraulic-Systems-0456,Hydraulic Systems,2021-06-02,1779,2026-04-16,17566.77,Low,SUP04
+P0457,Rotor-Transmission-0457,Rotor & Transmission,2021-10-11,1237,2026-03-12,54038.56,Medium,SUP19
+P0458,Avionics-Avionics-0458,Avionics,2022-05-02,1220,2026-02-27,76377.13,High,SUP05
+P0459,Rotor-Transmission-0459,Rotor & Transmission,2022-11-28,2347,2029-05-02,81810.03,Low,SUP04
+P0460,Avionics-Avionics-0460,Avionics,2022-10-17,2476,2029-07-28,168807.32,Medium,SUP20
+P0461,Engine-Components-0461,Engine Components,2022-10-26,2010,2028-04-27,223480.36,Low,SUP09
+P0462,Engine-Components-0462,Engine Components,2021-12-19,1752,2026-10-06,289515.89,Low,SUP03
+P0463,Rotor-Transmission-0463,Rotor & Transmission,2021-08-23,2050,2027-04-04,337653.39,Medium,SUP12
+P0464,Hydraulic-Systems-0464,Hydraulic Systems,2021-08-21,1401,2026-06-14,58152.96,High,SUP03
+P0465,Avionics-Avionics-0465,Avionics,2022-04-04,1602,2026-08-23,108001.61,Medium,SUP18
+P0466,Composite-Materials-0466,Composite Materials,2022-07-21,788,2026-08-19,15055.46,Medium,SUP08
+P0467,Hydraulic-Systems-0467,Hydraulic Systems,2021-03-14,1388,2026-12-24,31155.03,High,SUP02
+P0468,Electrical-Systems-0468,Electrical Systems,2021-03-12,2243,2027-05-03,16934.83,Medium,SUP07
+P0469,Hydraulic-Systems-0469,Hydraulic Systems,2021-06-23,1148,2026-10-25,48681.59,High,SUP06
+P0470,Engine-Components-0470,Engine Components,2021-04-22,2269,2027-07-09,477100.46,Medium,SUP06
+P0471,Fasteners-Hardware-0471,Fasteners & Hardware,2021-11-11,3214,2030-08-30,193.91,Medium,SUP15
+P0472,Cockpit-Instruments-0472,Cockpit Instruments,2022-10-12,2588,2029-11-12,37705.98,Medium,SUP15
+P0473,Airframe-Structures-0473,Airframe Structures,2021-08-09,2952,2029-09-08,122922.51,High,SUP20
+P0474,Engine-Components-0474,Engine Components,2022-08-08,1947,2027-12-07,338089.24,Medium,SUP03
+P0475,Hydraulic-Systems-0475,Hydraulic Systems,2022-03-21,1463,2026-03-23,33073.79,Medium,SUP18
+P0476,Electrical-Systems-0476,Electrical Systems,2021-06-15,2067,2027-02-11,21256.22,Medium,SUP16
+P0477,Avionics-Avionics-0477,Avionics,2022-03-22,2099,2027-12-20,80013.32,Low,SUP15
+P0478,Landing-Gear-0478,Landing Gear,2022-09-11,3018,2030-12-16,299411.63,High,SUP07
+P0479,Landing-Gear-0479,Landing Gear,2023-01-01,3301,2032-01-15,229224.77,High,SUP13
+P0480,Composite-Materials-0480,Composite Materials,2022-06-15,804,2026-03-04,37672.37,Low,SUP04
+P0481,Landing-Gear-0481,Landing Gear,2022-04-12,1959,2027-08-23,195673.11,Medium,SUP14
+P0482,Airframe-Structures-0482,Airframe Structures,2022-01-12,2132,2027-11-14,66994.91,Medium,SUP14
+P0483,Avionics-Avionics-0483,Avionics,2022-01-09,1151,2026-03-19,21095.97,High,SUP08
+P0484,Engine-Components-0484,Engine Components,2021-03-17,2691,2028-07-29,275280.92,Medium,SUP02
+P0485,Avionics-Avionics-0485,Avionics,2021-08-12,2000,2027-02-02,147819.81,Low,SUP03
+P0486,Composite-Materials-0486,Composite Materials,2021-06-14,446,2026-04-02,13823.06,Low,SUP07
+P0487,Hydraulic-Systems-0487,Hydraulic Systems,2021-03-03,1394,2026-09-03,51322.69,Low,SUP19
+P0488,Hydraulic-Systems-0488,Hydraulic Systems,2022-12-02,1583,2027-04-03,27886.68,Low,SUP10
+P0489,Rotor-Transmission-0489,Rotor & Transmission,2021-03-13,1865,2026-04-21,335715.52,Medium,SUP14
+P0490,Avionics-Avionics-0490,Avionics,2021-11-20,2233,2028-01-01,148511.47,High,SUP04
+P0491,Fasteners-Hardware-0491,Fasteners & Hardware,2022-03-18,3503,2031-10-20,363.12,High,SUP02
+P0492,Cockpit-Instruments-0492,Cockpit Instruments,2022-05-06,1976,2027-10-03,69388.91,Medium,SUP18
+P0493,Electrical-Systems-0493,Electrical Systems,2021-12-08,1275,2026-11-19,21795.34,High,SUP11
+P0494,Cockpit-Instruments-0494,Cockpit Instruments,2021-02-27,1905,2026-05-17,37539.18,Medium,SUP04
+P0495,Avionics-Avionics-0495,Avionics,2022-07-09,1650,2027-01-14,180536.99,Medium,SUP12
+P0496,Landing-Gear-0496,Landing Gear,2022-05-29,3036,2030-09-20,54108.17,Medium,SUP10
+P0497,Fasteners-Hardware-0497,Fasteners & Hardware,2022-09-23,4688,2035-07-25,134.57,Low,SUP12
+P0498,Engine-Components-0498,Engine Components,2021-01-19,2915,2029-01-12,354248.7,High,SUP19
+P0499,Landing-Gear-0499,Landing Gear,2022-09-23,1886,2027-11-22,203920.29,Medium,SUP07
+P0500,Cockpit-Instruments-0500,Cockpit Instruments,2022-05-20,1666,2026-12-11,47029.35,Medium,SUP07
